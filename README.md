@@ -1,1 +1,1 @@
-Kide Guile Compo BSIT
+Guile Compo BSIT
