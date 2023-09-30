@@ -1,2 +1,1 @@
-Learn@fligno
-Guile Compo BSIT
+Learn@flignno
